@@ -9,6 +9,7 @@ class TestRecolector{
         TestRecolector test = new TestRecolector();
         test.testear();
 
+
     }
     public void testear(){
         Date fecha = null;
